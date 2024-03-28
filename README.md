@@ -10,3 +10,6 @@
 
 <b>Smart TV need to talk to the server and printer need to talk to laptop<b>
 ![necessary connections](https://github.com/AndrewTanga/Advanced-Smart-Home-Security---VLANs-and-Firewalls/assets/93886645/20ccd3c0-2325-4438-9b7f-812667cb59e4)
+
+<b>In deep home security (fancy) - implementing multiple network settings in firewall rules - wireless router that supports VLAN<a>
+![Fancy](https://github.com/AndrewTanga/Advanced-Smart-Home-Security---VLANs-and-Firewalls/assets/93886645/df44def7-3a5c-4d6b-8dca-0e532c824607)
